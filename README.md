@@ -43,7 +43,7 @@ print(value)
 ii)	#Insertion Sort
 ```
 '''
-Program to sort the elements in the list using the Selection Sort algorithm.
+Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: Kaushika.A
 RegisterNumber: 21500112
 '''
